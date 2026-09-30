@@ -1,11 +1,13 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:4f46e5,100:0891b2&height=160&section=header&text=Vikas%20HL&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" alt="Vikas HL Header"/>
+
   <img src="banner.svg" width="100%" alt="Vikas HL: Agentic AI, ML Systems, Backend Engineering"/>
 
   <br/><br/>
 
   <a href="https://github.com/VIKASHL25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=760&height=40&lines=Building+agentic+AI+systems+with+LangGraph+%26+MCP;Physics-informed+ML+that+predicts+real+engine+faults;Shipping+FastAPI+microservices+in+Docker+containers;Orchestrating+services+with+Kubernetes+%E2%98%B8%EF%B8%8F" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=780&height=40&lines=Building+agentic+AI+systems+with+LangGraph+%26+MCP;Physics-informed+ML+that+predicts+real+engine+faults;Shipping+FastAPI+microservices+in+Docker+containers;Orchestrating+services+with+Kubernetes+%E2%98%B8%EF%B8%8F;Vector+Search+%26+RAG+with+Pinecone+%26+FAISS+%E2%9A%A1" alt="Typing animation"/>
   </a>
 
   <br/><br/>
@@ -103,6 +105,7 @@ class VikasHL:
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,neo4j&theme=dark" alt="Databases"/>
   </p>
   <p>
+    <a href="https://www.pinecone.io/"><img src="https://img.shields.io/badge/Pinecone-Vector%20DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/></a>
     <img src="https://img.shields.io/badge/FAISS-Vector%20DB-0467DF?style=for-the-badge" alt="FAISS"/>
   </p>
 
@@ -150,12 +153,12 @@ flowchart LR
 
 ### 🛡️ [Attack Path Visualisation & Remediation through Graph Intelligence](https://github.com/VIKASHL25/attack-path-visualisation)
 
-`Python` • `FastAPI` • `LangChain` • `LangGraph` • `MCP` • `FAISS` • `Neo4j` • `Docker`
+`Python` • `FastAPI` • `LangChain` • `LangGraph` • `MCP` • `FAISS` • `Pinecone` • `Neo4j` • `Docker`
 
 A cybersecurity platform that maps attack vectors on a **Neo4j knowledge graph** built from CVE data, so security teams can see likely breach paths through their network infrastructure.
 
 - 🤖 **Agentic AI** with LangChain + LangGraph, **MCP tool calling** and stateful agent memory
-- 📚 **RAG-based retrieval** with HuggingFace embeddings to generate real-time mitigation strategies
+- 📚 **RAG-based retrieval** with HuggingFace embeddings & Pinecone/FAISS vector search to generate real-time mitigation strategies
 - 🔐 **FastAPI backend with JWT auth** and an API gateway routing requests to the AI services and Neo4j
 
 ```mermaid
@@ -164,7 +167,7 @@ flowchart LR
     G --> A[FastAPI + JWT]
     A --> AG[LangGraph Agent<br/>MCP Tools + Memory]
     AG --> N[(Neo4j<br/>CVE Knowledge Graph)]
-    AG --> R[(FAISS<br/>RAG Retrieval)]
+    AG --> R[(Pinecone / FAISS<br/>Vector Retrieval)]
     AG --> M[Mitigation Strategies]
 ```
 
@@ -196,7 +199,7 @@ flowchart LR
 
 | Project | Description |
 | :--- | :--- |
-| 💬 [**RAG Conversation Engine**](https://github.com/VIKASHL25/Rag-conversation-engine) | Retrieval-Augmented Generation engine for grounded, context-aware conversations |
+| 💬 [**RAG Conversation Engine**](https://github.com/VIKASHL25/Rag-conversation-engine) | Retrieval-Augmented Generation engine for grounded, context-aware conversations using Pinecone & FAISS |
 | 📦 [**Amazon ML Challenge 2025**](https://github.com/VIKASHL25/amazon-ml-2025) | ML competition work: data exploration, modelling and experimentation |
 | 🏆 [**SIH '26**](https://github.com/VIKASHL25/SIH-26) · [**SIH '26 (26228)**](https://github.com/VIKASHL25/SIH-26228) | Smart India Hackathon 2026 solutions |
 
@@ -210,13 +213,33 @@ flowchart LR
 
 <img src="divider.svg" width="100%" alt="Divider"/>
 
+## 📊 Activity & Stats
+
+<div align="center">
+
+  <a href="https://github.com/VIKASHL25">
+    <img src="https://github-readme-stats.vercel.app/api?username=VIKASHL25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/VIKASHL25">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASHL25&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/VIKASHL25">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASHL25&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  </a>
+
+</div>
+
+<br/>
+
+<img src="divider.svg" width="100%" alt="Divider"/>
+
 ## 🎯 Currently
 
 | Status | Focus Area |
 | :---: | :--- |
 | 🔭 **Building** | Agentic AI workflows with LangGraph & MCP |
 | 🐳 **Deploying** | Containerised services with Docker, orchestrated on Kubernetes |
-| 🌱 **Exploring** | Fine-tuning, multi-agent systems, production-grade RAG |
+| 🌱 **Exploring** | Fine-tuning, multi-agent systems, production-grade RAG with Pinecone |
 | 💬 **Ask me about** | RAG pipelines, LangGraph agents, FastAPI backends, digital twins |
 
 <br/>
@@ -243,4 +266,5 @@ flowchart LR
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:4f46e5,100:0891b2&height=110&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
+
 
