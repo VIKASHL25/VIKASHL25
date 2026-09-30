@@ -213,26 +213,6 @@ flowchart LR
 
 <img src="divider.svg" width="100%" alt="Divider"/>
 
-## 📊 Activity & Stats
-
-<div align="center">
-
-  <a href="https://github.com/VIKASHL25">
-    <img src="https://github-readme-stats.vercel.app/api?username=VIKASHL25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/VIKASHL25">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKASHL25&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-  </a>
-  <a href="https://github.com/VIKASHL25">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIKASHL25&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-  </a>
-
-</div>
-
-<br/>
-
-<img src="divider.svg" width="100%" alt="Divider"/>
-
 ## 🎯 Currently
 
 | Status | Focus Area |
