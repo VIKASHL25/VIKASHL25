@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:4f46e5,100:0891b2&height=160&section=header&text=Vikas%20HL&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" alt="Vikas HL Header"/>
+  
 
   <img src="banner.svg" width="100%" alt="Vikas HL: Agentic AI, ML Systems, Backend Engineering"/>
 
