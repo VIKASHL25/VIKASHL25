@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Vikas HL: Agentic AI, ML Systems, Backend Engineering"/>
+<img src="banner.svg" width="100%" alt="Vikas HL: Agentic AI, ML Systems, Backend Engineering"/>
 
 <a href="https://github.com/VIKASHL25">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=760&height=40&lines=Building+agentic+AI+systems+with+LangGraph+%26+MCP;Physics-informed+ML+that+predicts+real+engine+faults;Shipping+FastAPI+microservices+in+Docker+containers;Orchestrating+services+with+Kubernetes+%E2%98%B8%EF%B8%8F" alt="Typing animation"/>
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 👋 About Me
 
