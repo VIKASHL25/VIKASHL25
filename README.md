@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a third-year **Information Science & Engineering** student at **Dayananda Sagar College of Engineering, Bengaluru**. I like building AI that does real work, not demos that only look good in a notebook.
+I'm a final-year **Information Science & Engineering** student at **Dayananda Sagar College of Engineering, Bengaluru**. I like building AI that does real work, not demos that only look good in a notebook.
 
 My projects sit where four things meet:
 
@@ -38,10 +38,10 @@ class VikasHL:
     approach   = "Understand the problem, design the system, ship it, explain it"
 
     def currently(self):
-        return "Building multi-agent workflows and competing in hackathons 🏆"
+        return "Building multi-agent workflows and "
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +67,7 @@ class VikasHL:
 ![CNNs](https://img.shields.io/badge/CNNs-Deep%20Learning-ef4444?style=for-the-badge)
 
 #### Backend, Containers & Orchestration
-<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,react&theme=dark" alt="Backend and DevOps"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,&theme=dark" alt="Backend and DevOps"/>
 
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0ea5e9?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
