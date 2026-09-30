@@ -84,7 +84,7 @@ class VikasHL:
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -114,7 +114,7 @@ flowchart LR
     G --> I[(MongoDB Atlas<br/>Fleet Health History)]
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ### 🛡️ [Attack Path Visualisation & Remediation through Graph Intelligence](https://github.com/VIKASHL25/attack-path-visualisation)
 `Python` `FastAPI` `LangChain` `LangGraph` `MCP` `FAISS` `Neo4j` `Docker`
@@ -135,7 +135,7 @@ flowchart LR
     AG --> M[Mitigation Strategies]
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ### 🧠 [Code-Mind: AI Code & Data Analysis Platform](https://github.com/VIKASHL25/CodeMind)
 `Python` `FastAPI` `LangChain` `LangGraph` `MongoDB` `WebSockets`
@@ -156,7 +156,7 @@ flowchart LR
     V --> S
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ### 📂 More work
 
@@ -166,7 +166,7 @@ flowchart LR
 | 📦 [**Amazon ML Challenge 2025**](https://github.com/VIKASHL25/amazon-ml-2025) | ML competition work: data exploration, modelling and experimentation |
 | 🏆 [**SIH '26**](https://github.com/VIKASHL25/SIH-26) · [**SIH '26 (26228)**](https://github.com/VIKASHL25/SIH-26228) | Smart India Hackathon 2026 solutions |
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 🎓 Education
 
@@ -174,7 +174,7 @@ flowchart LR
 Dayananda Sagar College of Engineering, Bengaluru · Oct 2023 – Jul 2027
 **CGPA: 9.1 / 10** · Machine Learning · Deep Learning · DBMS · Natural Language Processing
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## 🎯 Currently
 
@@ -183,7 +183,6 @@ Dayananda Sagar College of Engineering, Bengaluru · Oct 2023 – Jul 2027
 | 🔭 **Building** | Agentic AI workflows with LangGraph & MCP |
 | 🐳 **Deploying** | Containerised services with Docker, orchestrated on Kubernetes |
 | 🌱 **Exploring** | Fine-tuning, multi-agent systems, production-grade RAG |
-| 🤝 **Open to** | Internships, hackathon teams, AI/ML collaborations |
 | 💬 **Ask me about** | RAG pipelines, LangGraph agents, FastAPI backends, digital twins |
 
 <div align="center">
